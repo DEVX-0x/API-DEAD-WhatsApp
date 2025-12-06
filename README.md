@@ -9,7 +9,7 @@ All official WhatsApp clients, upon receiving a "Message Reply" payload (QuotedM
 Malicious individuals can use this to create issues such as:
 
 - Arguments between couples
-- Sextortion scams
+- Sextortion Scams
 - Frauds against financial institutions
 
 
